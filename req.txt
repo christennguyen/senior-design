@@ -1,0 +1,68 @@
+\section{List of Requirements}\label{List of Requirements}
+\subsection{Introduction}
+This section organizes the requirements of the project into three categories: functional requirements, non-functional requirements and design constraints. Functional Requirements are those which the project must perform. Non-Functional Requirements are those which impact user experience. Lastly, Design Constraints are limitations on the scope of the project. Additionally, each of these requirements are further divided into subcategories based on their level of priority: critical, recommended and suggested.
+\subsection{Functional Requirements}
+\begin{itemize}
+    \item{Critical}
+        \begin{itemize}
+        \item{The system will aggregate associated data by country}
+        \item{The system will produce the appropriate infographics based on the user’s selections}
+        \item{The system will accredit all data used to Afrobarometer and acknowledge copyright holders}
+        \item{The system will allow the user to browse results on specific topics}
+        \begin{itemize}
+            \item{Examples: gender equality, economy, taxation and national identity}
+        \end{itemize}
+        \end{itemize}
+    \item{Recommended}
+        \begin{itemize}
+        \item{The system will allow the user to select the survey round}
+        \begin{itemize}
+            \item{Implementing several rounds depends on how much is needed for prototype}
+        \end{itemize}
+        \begin{itemize}
+            \item{User can choose from six rounds (years when survey was taken)}
+        \end{itemize}
+        \end{itemize}
+    \item{Suggested}
+        \begin{itemize}
+            \item{The system will support language selection}
+            \begin{itemize}
+                \item{English or French}
+            \end{itemize}
+        \end{itemize}
+\end{itemize}
+\subsection{Non-Functional Requirements}
+\begin{itemize}
+    \item{Critical}
+        \begin{itemize}
+        \item{The system will be intuitive for the user to make specifications of the data to be viewed}
+        \item{The system will be easy to use}
+        \item{The system will be quick and responsive}
+        \item{The system will produce clear and understandable infographics}
+        \item{The system will be extendable/scalable}
+        \end{itemize}
+    \item{Recommended}
+        \begin{itemize}
+            \item{The system will be flexible/adaptable to possible requirement changes}
+        \end{itemize}
+    \item{Suggested}
+        \begin{itemize}
+            \item{The system will be internationalized to support a mutlilingual audience}
+            \item{The system will be extensible for future projects}
+        \end{itemize}
+\end{itemize}
+\subsection{Design Constraints}
+\begin{itemize}
+    \item{Critical}
+    \begin{itemize}
+        \item{Must be implemented on a touchscreen}
+        \item{Must be easily transferrable to other hardware}
+    \end{itemize}
+    \item{Recommended}
+        \begin{itemize}
+            \item{Must utilize a cache to store data}
+            \item{System will utilize a database-centric architecture for data access}
+            \item{System will utilize an event-based architecture for user interface}
+        \end{itemize}
+\end{itemize}
+\newpage
