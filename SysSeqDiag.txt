@@ -1,0 +1,11 @@
+\section {System Sequence Diagram}\label{System Sequence Diagram}
+\subsection{Introduction}
+This system sequence diagram outlines the basic flow of user activity when using our system. When users first access the system, they are prompted to select the survey round they would like to review. The user then specifies which country or countries to investigate given the specified round. Afterward, the user selects which survey question to interpret. This step is multifaceted; a survey topic is first selected, and each survey topic is divided into subcategories. Under each subcategory is a series of particular surveys from which the user makes his or her selection. The user is then presented with the appropriate infographics containing all information specific to the round, countries and survey topic chosen. After viewing these infographics the user can start a new data analysis session or exit. At any point within use of the system, the user always has option to perform the subsequent action or exit the system entirely.
+\newpage
+\subsection{Diagram}
+\begin{figure}[!ht]
+  \centering
+    \includegraphics[width=.3\textwidth]{ActivityFlowDiagram}
+      \caption{System Sequence Diagram}
+\end{figure}
+\newpage
