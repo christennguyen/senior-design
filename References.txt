@@ -1,0 +1,81 @@
+\section{References}\label{References}
+\subsection{Introduction}
+This section provides a review of the references to which we referred for research and background information. Each section contains a summary of each cited article that we will use in our Senior Design project.
+
+\subsection{Current System}
+This section analyzes the two sources from which we obtained information about our client and their current system which we hope to improve.
+    \begin{itemize}
+        \item ``Welcome to Afrobarometer." \textit{Welcome to Afrobarometer }|\textit{ Afrobarometer.} Afrobarometer, 2016. Web. 15 Oct. 2016.
+
+        This webpage provided the necessary background information for our team to understand the identity of Afrobarometer in order to implement a system perfectly geared toward their needs.
+
+        \item ``Online Data Analysis." \textit{Online Data Analysis }|\textit{ Afrobarometer.} Afrobarometer, 2016. Web. 15 Oct. 2016.
+
+        This is the direct webpage containing Afrobarometer's current system: The Online Data Analysis Tool.
+
+    \end{itemize}
+\subsection{Infographics and Data Visualization}
+This section of our literary review contains the sources to which we will refer for information on creating effective infographics for data visualization.
+	\begin{itemize}
+		
+        \item Ashman, Rachel, and Anthony Patterson. ``Seeing the Big Picture In Services Marketing Research:
+Infographics, SEM And Data Visualisation." \textit{Journal of Services Marketing} 29.6/7 (2015): 613-621. \textit{Business Source Complete.} Web. 23 Oct. 2016.
+
+This article describes four guidelines for creating effective infographics that promise to make quantitative data more accessible and impactful. By following these guidelines, researchers can present the information simply without watering down the data too much. The methods in the article allow researchers to appeal to a broader audience, as we hope to do when the app is deployed to audiences in Africa. Our target audience will range from professionals to children so we need to create infographics that are simple to understand yet maintain a sophistication that will appeal to more informed demographics.  
+        
+        \item Gamble, Tim and Jon May. ``Transitions in Interface Objects: Searching Databases." \textit{Advances In Human-Computer Interaction} (2016): 1-5. \textit{Applied Science \& Technology Source.} Web. 22 Oct. 2016.
+
+Tim Gamble and Jon May researched different ways to display information for searching across a database like screen. Their results give validity to the claim that close attention needs to be paid when designing informational layouts because the design can have a large impact on how easily a user completes a task. In the case of our project, we will need to closely test and vet different ways to display the information, as a bad display could ruin the usability of the project. May and Gamble mainly focus on the distance that the eye has to travel to find the information in relation to how efficiently participants can complete a task. We will use the results of their study to tailor the design of the display of our information.
+		
+        \item Godfrey, Parke, Jarek Gryz and Piotr Lasek. ``Interactive Visualization of Large Data Sets." \textit{IEEE Transactions On Knowledge \& Data Engineering} 28.8 (2016): 2142-2157. Applied Science \& Technology Source. Web. 23 Oct. 2016.
+
+This article identifies interactive visualization as an effective method for data analysis as well as the challenges that come with trying to visualize large data sets. The authors focus mainly on the issue of query processing within a database system. This article will help us to form meaningful queries that are relevant to the way we want to manipulate Afrobarometer’s database. With the authors’ acknowledgement of the challenges of data visualization, we hope that their recommendations will help us create queries that overcome the difficulties of creating quick query responses and showing sufficient data points.
+
+		\item Kosara, Robert. ``Presentation-Oriented Visualization Techniques." \textit{IEEE Computer Graphics \& Applications 36.1} (2016): 80-85. \textit{Applied Science \& Technology Source.} Web. 7 Oct. 2016.
+
+This article focuses on presentation-oriented techniques when displaying data. Since data visuals are the perfect accompaniment to stories or random pieces of information to enhance the audience’s level of understanding, the presentation of this data is truly important. Historically, traditional visualization techniques have been dismissed as less important to the information it accompanies; however, since our system will be presenting infographics, i.e. both content and visuals, we would like to prioritize the visualization aesthetic. This article will help us pinpoint exactly what makes an infographic “presentation-oriented” so to create the best user experience possible for our audience.
+
+	\item Otten, J. J., K. Cheng, and A. Drewnowski. ``Infographics And Public Policy: Using Data Visualization To Convey Complex Information." \textit{Health Affairs} 34.11 (2015): 1901-1907. \textit{Global Health.} Web. 7 Oct. 2016.
+
+This article discusses the concept of data visualization from multiple perspectives including psychology, usability, graphic design, and statistics. The article describes how to portray data in easily accessible and appealing formats, which is precisely the problem our project hopes to address. The role of infographics in bridging the gap between producers and consumers of information is a key concept detailed in this article. Our project hopes to present complex information in an absorbable format so that the users of our system will not only be more informed, but they will also feel exceptionally more knowledgeable and capable of contributing to a particular cause after being informed. We hope that the users feel as adept as the “producers of the information,” who are, in this case, representatives of Afrobarometer (our client).
+
+	\item Parkinson, Mike. ``Infographic Tips And Tools." \textit{TD: Talent Development} 70.5 (2016): 26-28. \textit{Business Source Complete.} Web. 23 Oct. 2016.
+
+This article is a basic starting guide to creating infographics and data visualization. Along with providing tips of its own, the author lists several helpful resources to gather inspiration for infographic design and creation. The article discusses different types of charts, graphs, and tables and how best to decide between a graphic method depending on the data in question. The article also takes into consideration the audience and how to market the information in a way that appeals to them most. 
+
+    \end{itemize}
+
+\subsection{Databases and Touch Screen Displays}
+This section analyzes the sources we acquired regarding databases, user interaction with data, and touch screen displays.
+	\begin{itemize}
+    	\item Chen, Travis, and Justin Wong. \textit{Tanzania Education Graphing, Ranking, and Mapping.} BS Thesis, Santa Clara University, 2016.
+
+Chen and Wong have created a website that allows users to interact with a graph or map page. Users can make selections and queries to view educational data in Tanzania. This senior design thesis is very similar to what we hope to achieve through our project. It would be helpful to see how they manipulate data using queries and filters as well as the way they chose to lay out their navigation. Our project will vary in that ours will be a desktop application spanning a larger data set with more categories than simply education. 
+        \item Clinch, Sarah, Jason Alexander and Sven Gehring. ``A Survey of Pervasive Displays for Information 
+Presentation." \textit{IEEE Pervasive Computing} 15.3 (2016): 14-22. \textit{Applied Science \& Technology Source.} Web. 22 Oct. 2016.
+
+This research details how to utilize pervasive screens in an unobtrusive way. As screens become more pervasive, it is important to design screen layouts and information displays in a way that avoids information overload. The authors suggest focusing keenly on the non-expert user while placing the screens in an easily accessible yet unobtrusive place. The ability to interact with a screen also improves the ability of the user to digest the data. This information will be important for when the screens get placed throughout their destinations, as their locations will greatly affect their effectiveness. 
+		\item Coni, Philippe, Jean-Noël Perbert, Lionel Augros, Jean Christophe Abadie, and Yves Sontag. ``A New 
+Application of a Touch Screen Display for Data Transfer." \textit{SID Symposium Digest of Technical Papers} 46.1 (2015): 37-40. \textit{Applied Science \& Technology Source.} Web. 22 Oct. 2016.
+
+
+This article details research being done on the transference of data through a capacitive touchscreen -- that is, a custom touch interface system Although this information will not directly influence our current project, it is an interesting path that could be taken in the future to collect data from the touchscreens themselves. By tweaking some software and hardware, users of the screen might be able to transfer data by means of the touchscreen itself, cutting down on the need for external hardware. Since this is still developing technology, it can not be put into use now. However, in the future it could directly apply to the mission of our project.
+    \end{itemize}
+    
+\subsection{Internationalization and Localization}
+This section of our literary review describes the various sources to which we will refer for information on implementing a system that incorporates internationalization and localization.
+	\begin{itemize}
+    	
+        \item Leiva, Luis A. and Vicent Alabau. ``Automatic Internationalization For Just In Time Localization Of
+Web-Based User Interfaces." \textit{ACM Transactions On Computer-Human Interaction (TOCHI)} 22.3
+(2015): 13:1-13:32. \textit{Applied Science \& Technology Source.} Web. 22 Oct. 2016.
+
+This article describes the process of implementing applications that support a multilingual audience. This process consists of two key sub-processes that occur in the following order: internationalization followed by localization. The article discusses how internationalization can be achieved by decoupling translatable text out of the application’s source code. Once internationalization is implemented, then the software can be localized to support the requirements of different locales. The two locales specific to our project are English and French interfaces as the primary language of our audience members will be either one of these languages. We will refer to the methods described in this article to successfully implement internationalization and localization.
+    	
+        \item Wang, Xiaoyin, Lu Zhang, Tao Xie, Hong Mei, and Jiasu Sun. ``Locating Need-to-Externalize Constant 
+Strings for Software Internationalization with Generalized String-Taint Analysis." \textit{IEEE Transactions On Software Engineering} 39.4 (2013): 516-536. \textit{Applied Science \& Technology Source.} Web. 22 Oct. 2016.
+
+This article describes how globalization has affected the software product industry. In order for software products to meet the requirements of various local users, the product itself must be internationalized. The article discusses how difficult it is to internationalize an existing product due to the need for locating certain strings within the existing database. This article proposes an automatic approach to externalizing data within the strings of the source code of a software product. This documentation will be particularly useful for us later on in our project, when we have already successfully implemented our system in English and we would like to internationalize the system for our French-speaking audiences. Since we are prioritizing the implementation in English and will only internationalize given our time frame, the externalization technique will most likely be of concern if our product will already be considered a ``final product” before we add French capabilities.
+    \end{itemize}    
+    
+\newpage
