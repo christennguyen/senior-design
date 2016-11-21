@@ -1,0 +1,9 @@
+\section{Conclusion}\label{Conclusion}
+\singlespacing
+Ideally, this project will result in an increased awareness of the African population regarding the status of their fellow citizens. The quick spread of information and in an easily digestible form allows for a more informed population able to enact change. Technology is ubiquitous in developed countries like the United States, but the developing world lacks the same exposure to the computerized world. By exposing a larger portion of the population to technology and data regarding their countrymen, more people can understand the needs of their society, and ideally enact changes faster. Researchers studying the usefulness of technology from a social benefit perspective will likely see increased social awareness stemming from the spread of information.
+
+If successful, our project would serve as a means for people to learn insightful, statistical information about areas in Africa that Afrobarometer has surveyed. To provide these people in Africa access to this data would be giving them the power to connect through learned knowledge and the motivation necessary to take positive action. Additionally, our project would significantly widen the scope of Afrobarometer’s audience, thus giving them the power to impact thousands more people than the number currently made possible by their current website.
+
+We hope for the resulting impact of this project to be exponential. Afrobarometer will take charge of deploying our final working product and oversee its use in the countries in which it will be placed. This project is categorized under Santa Clara University’s Frugal Innovation Hub, a collaborative space under the School of Engineering that focuses on humanitarian projects and partnering with social enterprises. With that said, our project will participate in the social entrepreneur movement to hopefully inspire more projects of similar nature.
+
+\newpage
